@@ -30,7 +30,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #7289da;
+    color: #45c9f5;
 }
 
 .hero {
@@ -46,7 +46,7 @@ nav a:hover {
 }
 
 .hero-logo {
-    height: 200px; /* Adjust height as needed */
+    height: 150px; /* Adjust height as needed */
     margin-bottom: 20px;
 }
 
@@ -63,7 +63,7 @@ nav a:hover {
 .join-button {
     display: inline-block;
     padding: 15px 30px;
-    background: #d00000;
+    background: #20aae1;
     font-weight: bold;
     color: white;
     text-decoration: none;
@@ -72,7 +72,7 @@ nav a:hover {
 }
 
 .join-button:hover {
-    background: #bb0000;
+    background: #1882ab;
 }
 
 .about, .features {
